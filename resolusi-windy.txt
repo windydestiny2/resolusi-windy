@@ -1,3 +1,5 @@
 RESOLUSI WINDY
 - Belajar menggunakan git dan github
 - Membuat website untuk sugoiiyaki
+- Mengerjakan metode penilitian
+- Mengerjakan PI
